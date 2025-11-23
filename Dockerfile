@@ -1,5 +1,5 @@
 # Use the official OpenJDK 17 image as the base image
-FROM openjdk:17-jdk-alpine
+FROM openjdk:26-ea-17-jdk-slim
 
 # Set metadata
 LABEL maintainer="trainwithshubham@gmail.com"
